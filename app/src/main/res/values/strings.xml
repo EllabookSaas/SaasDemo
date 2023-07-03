@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SaasDemo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="reader_reread">重读</string>
+    <string name="reader_exit">退出</string>
+    <string name="exit_reader">退出阅读</string>
+    <string name="choose_read_mode">选择阅读模式</string>
+    <string name="mode_fandu">泛读模式</string>
+    <string name="mode_jingdu">精读模式</string>
+    <string name="play_setting">播放设置</string>
+    <string name="play_mode_hand">手动播放</string>
+    <string name="play_mode_auto">自动播放</string>
+    <string name="cancel">取消</string>
+    <string name="read_history_tips">是否继续上次阅读？</string>
+    <string name="read_history_no">否</string>
+    <string name="read_history_yes">是</string>
+    <string name="to_buy_desc">试读结束，请购买后阅读完整内容。</string>
+    <string name="to_buy">去购买</string>
+    <string name="check_error">无法获取内容，请稍后重试</string>
+    <string name="close">关闭</string>
+    <string name="read_network_tips">当前处于非WIFI网络，确认使用流量下载吗？</string>
+</resources>
